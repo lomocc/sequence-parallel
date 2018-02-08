@@ -1,0 +1,10 @@
+{
+  "name": "sequence-parallel",
+  "version": "1.0.0",
+  "description": "Functional Programming with Sequence and Parallel",
+  "main": "index.js",
+  "scripts": {},
+  "author": "vincent",
+  "license": "ISC",
+  "dependencies": {}
+}
