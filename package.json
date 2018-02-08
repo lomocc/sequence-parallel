@@ -6,5 +6,13 @@
   "scripts": {},
   "author": "vincent",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lomocc/sequence-parallel.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lomocc/sequence-parallel/issues"
+  },
+  "homepage": "https://github.com/lomocc/sequence-parallel#readme"
 }
